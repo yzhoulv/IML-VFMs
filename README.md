@@ -12,6 +12,6 @@ This is the official repo of our paper IML-VFMs: Benchmarking Image Manipulation
 - [ ]  **Publish the training code, after the paper is accepted.**
 
 
-▪**The manuscript has been submitted. Due to space limitations, we have uploaded the inference results for the cross-dataset models (DINO v2, ViT Large) to Google Drive ([here](https:XXXX)) and, to facilitate access for users in China, we have also uploaded them to Baidu Netdisk ([here](https:XXXX)).**
+▪**The manuscript has been submitted. Due to space limitations, we have uploaded the inference results for the cross-dataset models (DINO v2, ViT Large) to Google Drive ([here](https://drive.google.com/file/d/14VgrkY9w_4ZTnQx74qnpdtK2IZISWGCv/view?usp=sharing)) and, to facilitate access for users in China, we have also uploaded them to Baidu Netdisk ([here](https://pan.baidu.com/s/1rFIcp_QJ9-HwzUflZiEFVQ?pwd=vfms)).**
 <br>
 ▪**The calculation code for the inference results: `cal_results.py`**
